@@ -6,3 +6,6 @@ $ mkdir folder images annotated
 ```
 
 2. run `train.py`
+```
+$ python train.py
+```
